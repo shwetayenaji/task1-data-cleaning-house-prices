@@ -21,7 +21,7 @@ Clean and preprocess the dataset for machine learning models.
 
 ## 📁 Files Included
 - `train.csv`: Raw data
-- `task1_preprocessing.ipynb`: Full preprocessing script
+- `preprocessing.ipynb`: Full preprocessing script
 - `cleaned_house_prices.csv`: Final output
 - `README.md`: Summary of this project
 
